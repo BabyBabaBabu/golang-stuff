@@ -1,0 +1,14 @@
+https://www.google.co.ke/imghp?hl=sw&tab=wi
+https://maps.google.co.ke/maps?hl=sw&tab=wl
+https://www.youtube.com/?gl=KE&tab=w1
+https://news.google.com/?tab=wn
+https://mail.google.com/mail/?tab=wm
+https://drive.google.com/?tab=wo
+https://calendar.google.com/calendar?tab=wc
+http://www.google.co.ke/history/optout?hl=sw
+/preferences?hl=sw
+https://accounts.google.com/ServiceLogin?hl=sw&passive=true&continue=https://www.google.com/&ec=GAZAAQ
+/advanced_search?hl=sw-KE&authuser=0
+https://www.google.com/setprefs?sig=0_9_p6g0E8TUjGZJTtJUHBPFiPIrU%3D&hl=en&source=homepage&sa=X&ved=0ahUKEwjS9aqPkLDwAhWozIUKHQeLBvwQ2ZgBCAU
+/intl/sw/about.html
+https://www.google.com/setprefs?sig=0_9_p6g0E8TUjGZJTtJUHBPFiPIrU%3D&hl=en
